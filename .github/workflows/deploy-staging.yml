@@ -11,7 +11,7 @@ env:
   ###############################################
   DOCKER_IMAGE_NAME: foxtrot-0-azure-ttt
   AZURE_WEBAPP_NAME: foxtrot-0-ttt-app
-  NODE_OPTIONS: --openssl-legacy-provider
+  NODE_OPTIONS:--openssl-legacy-provider
   ###############################################
 
 jobs:
